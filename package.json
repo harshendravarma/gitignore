@@ -1,0 +1,22 @@
+{
+  "name": "ignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshendravarma/gitignore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshendravarma/gitignore/issues"
+  },
+  "homepage": "https://github.com/harshendravarma/gitignore#readme",
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
